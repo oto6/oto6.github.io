@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://otoblog.xyz/20191117-1/</loc>
+        <lastmod>2019-11-16T16:32:05.815Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://otoblog.xyz/20190530-1/</loc>
         <lastmod>2019-05-30T13:04:15.505Z</lastmod>
         <changefreq>weekly</changefreq>

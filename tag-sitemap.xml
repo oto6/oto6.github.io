@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://otoblog.xyz/tags/PC/</loc>
+        <lastmod>2019-11-16T16:32:05.815Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://otoblog.xyz/tags/Hexo/</loc>
         <lastmod>2019-05-30T13:04:15.505Z</lastmod>
         <changefreq>weekly</changefreq>
