@@ -4,17 +4,17 @@
 
     <sitemap>
         <loc>https://otoblog.xyz/post-sitemap.xml</loc>
-        <lastmod>2019-11-16T16:32:05.815Z</lastmod>
+        <lastmod>2019-05-30T13:04:15.505Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://otoblog.xyz/category-sitemap.xml</loc>
-        <lastmod>2019-11-16T16:32:05.815Z</lastmod>
+        <lastmod>2019-05-30T13:04:15.505Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://otoblog.xyz/tag-sitemap.xml</loc>
-        <lastmod>2019-11-16T16:32:05.815Z</lastmod>
+        <lastmod>2019-05-30T13:04:15.505Z</lastmod>
     </sitemap>
 
 </sitemapindex>
