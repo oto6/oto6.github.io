@@ -3,29 +3,29 @@
 
 
     <url>
+        <loc>https://otoblog.xyz/tags/PC/</loc>
+        <lastmod>2019-12-27T08:02:55.465Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://otoblog.xyz/tags/KindleFire7/</loc>
-        <lastmod>2019-11-17T17:01:47.458Z</lastmod>
+        <lastmod>2019-12-26T15:00:54.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://otoblog.xyz/tags/DigitalGadjet/</loc>
-        <lastmod>2019-11-17T17:01:47.458Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://otoblog.xyz/tags/PC/</loc>
-        <lastmod>2019-11-16T16:43:59.213Z</lastmod>
+        <lastmod>2019-12-26T15:00:54.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://otoblog.xyz/tags/Hexo/</loc>
-        <lastmod>2019-05-30T13:04:15.505Z</lastmod>
+        <lastmod>2019-12-26T15:00:54.987Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
