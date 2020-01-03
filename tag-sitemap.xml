@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://otoblog.xyz/tags/Game/</loc>
+        <lastmod>2020-01-03T07:16:38.780Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://otoblog.xyz/tags/PC/</loc>
         <lastmod>2019-12-27T08:02:55.465Z</lastmod>
         <changefreq>weekly</changefreq>

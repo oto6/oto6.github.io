@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://otoblog.xyz/20200103-1/</loc>
+        <lastmod>2020-01-03T07:16:38.780Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://otoblog.xyz/20191227-1/</loc>
         <lastmod>2019-12-27T08:02:55.465Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,7 +24,7 @@
     </url>
 
     <url>
-        <loc>https://otoblog.xyz/20191117-1/</loc>
+        <loc>https://otoblog.xyz/20191118-1/</loc>
         <lastmod>2019-12-26T15:00:54.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -24,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://otoblog.xyz/20191118-1/</loc>
+        <loc>https://otoblog.xyz/20191117-1/</loc>
         <lastmod>2019-12-26T15:00:54.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
