@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://otoblog.xyz/tags/Hexo/</loc>
+        <lastmod>2020-01-10T16:25:12.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://otoblog.xyz/tags/Hugo/</loc>
+        <lastmod>2020-01-10T16:25:12.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://otoblog.xyz/tags/Blog/</loc>
+        <lastmod>2020-01-10T16:25:12.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://otoblog.xyz/tags/Game/</loc>
         <lastmod>2020-01-03T07:16:38.780Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +47,6 @@
     <url>
         <loc>https://otoblog.xyz/tags/DigitalGadjet/</loc>
         <lastmod>2019-12-26T15:00:54.988Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://otoblog.xyz/tags/Hexo/</loc>
-        <lastmod>2019-12-26T15:00:54.987Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
