@@ -55,10 +55,9 @@
         '<div id="' + id + '" class="article-share-box">',
           '<input class="article-share-input" value="' + url + '">',
           '<div class="article-share-links">',
+            '<a href="http://b.hatena.ne.jp/entry/' + encodedUrl + '" class="article-share-hatena" target="_blank" title="Hatena"></a>',
             '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
             '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
-            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="article-share-pinterest" target="_blank" title="Pinterest"></a>',
-            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="article-share-google" target="_blank" title="Google+"></a>',
           '</div>',
         '</div>'
       ].join('');
@@ -134,4 +133,21 @@
 
     $container.removeClass('mobile-nav-on');
   });
+
+  $(function(){
+    $('.widget-title').each(function() {
+      var elem = $(this);
+      if (elem.data("skipMobileNav")) { return; }
+      var title = elem.text();
+      var ref = elem.attr("id");
+      var link = $('<a class="mobile-nav-link mobile-nav-link-scroll" href="#' + ref + '">' + title + '</a>');
+
+      $('#mobile-nav').append(link);
+    });
+
+    $('.mobile-nav-link-scroll').on('click', function(){
+      $container.removeClass('mobile-nav-on');
+      return true;
+    });
+  })
 })(jQuery);
