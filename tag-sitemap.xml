@@ -4,7 +4,14 @@
 
     <url>
         <loc>https://otoblog.xyz/tags/Novel/</loc>
-        <lastmod>2020-05-10T09:54:37.658Z</lastmod>
+        <lastmod>2020-05-10T10:08:27.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://otoblog.xyz/tags/Hexo/</loc>
+        <lastmod>2020-01-10T16:25:12.285Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -18,13 +25,6 @@
 
     <url>
         <loc>https://otoblog.xyz/tags/Blog/</loc>
-        <lastmod>2020-01-10T16:25:12.285Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://otoblog.xyz/tags/Hexo/</loc>
         <lastmod>2020-01-10T16:25:12.285Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
