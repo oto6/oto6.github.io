@@ -65,11 +65,11 @@
       <category term="Blog" scheme="https://otoblog.xyz/categories/Blog/"/>
     
     
+      <category term="Hexo" scheme="https://otoblog.xyz/tags/Hexo/"/>
+    
       <category term="Blog" scheme="https://otoblog.xyz/tags/Blog/"/>
     
       <category term="Hugo" scheme="https://otoblog.xyz/tags/Hugo/"/>
-    
-      <category term="Hexo" scheme="https://otoblog.xyz/tags/Hexo/"/>
     
   </entry>
   
